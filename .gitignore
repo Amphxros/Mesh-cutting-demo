@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Cutting Meshes demo/[Ll]ibrary/
+Cutting Meshes demo/[Tt]emp/
+Cutting Meshes demo/[Oo]bj/
+Cutting Meshes demo/[Bb]uild/
+Cutting Meshes demo/[Bb]uilds/
+Cutting Meshes demo/[Ll]ogs/
+Cutting Meshes demo/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
